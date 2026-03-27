@@ -176,6 +176,7 @@ jobs:
             libqt6svg6-dev \
             libopencv-dev \
             libproc2-dev \
+            qt6-serialport-dev \
             wget \
             file \
             desktop-file-utils \
